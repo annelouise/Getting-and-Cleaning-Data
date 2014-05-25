@@ -1,7 +1,7 @@
 # 2- Reading Data
 # 2.1- Reading ID Values
 idtest = IDs from test group 
-idtrain = IDs from train group
+## idtrain = IDs from train group
 
 #2.2 Reading the feature file
 feature = List of all features
