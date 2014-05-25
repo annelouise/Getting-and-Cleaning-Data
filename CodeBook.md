@@ -35,7 +35,7 @@ stat_sd = extract sd
 #5 Reshaping to get final tidy data
 #5.1 calculating meand and sd
 stat_meanfinal = adding a column stat with the info mean to dataset;
-stat_sdfinal = adding a column stat with the info sd to dataset
+stat_sdfinal = adding a column stat with the info sd to dataset;
 stat_final = stack stat_meanfinal and stat_sdfinal
 
 #5.2 Droping 2 columns and renaming replacement columns
